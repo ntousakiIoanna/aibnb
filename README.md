@@ -63,10 +63,3 @@ After you have drawn the plot, do another one, this time with the $x$ axis in *l
 
 Draw an interactive map to show the listings ovelayed on Athens.
 
-You can use the [folium](https://github.com/python-visualization/folium) library to create your map; spend some time reading the documentation.
-
-The map should show each listing and on clicking on top of it, the user should see a short description of the listing.
-
-Note that such a map is heavy on resources. You will probably *not* be able to include it in a Jupyter notebook, so you should save it to an external HTML file that can be opened by any browser. Also, to make things easier, you make wish to limit the maximum zoom level from 12 to 15 (after you read folium's documentation you will know what this is).
-
-Hint: be careful witht he description data, if they contain some characters they may not be rendered in HTML and may destroy your output.
