@@ -6,7 +6,6 @@
 
 A lot has been said and written about the effect of AirBnB in Athens. In this assignment, you will use the data collected by [Inside AirBnB](http://insideairbnb.com), so you can go ahead and download the Athens data from http://insideairbnb.com/get-the-data.html.
 
-Once you do that, spend some time familiarizing yourself with the data and then go ahead and do the following tasks.
 
 ## Neighbourhood Listings in Descending Order
 
